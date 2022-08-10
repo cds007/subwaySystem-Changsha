@@ -1,0 +1,39 @@
+<RCC>
+    <qresource prefix="/data">
+        <file>data/LineCS.txt</file>
+    </qresource>
+    <qresource prefix="/Images">
+        <file>Images/adImages.jpeg</file>
+        <file>Images/appHelpIcon-modified.png</file>
+        <file>Images/attractionInquiryIcon-modified.png</file>
+        <file>Images/authorIcon-modified.png</file>
+        <file>Images/exitIcon.png</file>
+        <file>Images/line1.png</file>
+        <file>Images/line2.png</file>
+        <file>Images/line3.png</file>
+        <file>Images/line4.png</file>
+        <file>Images/line5.png</file>
+        <file>Images/line6.png</file>
+        <file>Images/line7.png</file>
+        <file>Images/lineIcon-modified.png</file>
+        <file>Images/mainwindowIcon.png</file>
+        <file>Images/QtIcon.png</file>
+        <file>Images/restoreDefaultSizeIcon-modified.png</file>
+        <file>Images/stationIcon-modified.png</file>
+        <file>Images/subwayMapViewIcon-modified.png</file>
+        <file>Images/transferInquiryIcon-modified.png</file>
+        <file>Images/xianluda.gif</file>
+        <file>Images/zndx.jpg</file>
+        <file>Images/zoomInIcon-modified.png</file>
+        <file>Images/zoomOutIcon-modified.png</file>
+        <file>Images/adImage.png</file>
+    </qresource>
+    <qresource prefix="/html">
+        <file>html/helpAddByText.html</file>
+        <file>html/helpAddConnection.html</file>
+        <file>html/helpAddLine.html</file>
+        <file>html/helpAddStation.html</file>
+        <file>html/helpTransfer.html</file>
+        <file>html/helpWatch.html</file>
+    </qresource>
+</RCC>
